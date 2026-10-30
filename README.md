@@ -1,2 +1,2 @@
 # cardiosense-platform
-Test software 
+Test software for hardware simulations
